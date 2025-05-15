@@ -78,5 +78,15 @@
       "...sdfgsd",
       "...sdfg"
     ]
+  },
+  {
+    "number": "9",
+    "question": "Adding test question",
+    "correctAnswer": "test correct",
+    "incorrectAnswers": [
+      "test inc1",
+      "test inc2",
+      "test inc3"
+    ]
   }
 ]
