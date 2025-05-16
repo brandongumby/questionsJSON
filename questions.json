@@ -191,12 +191,12 @@
   },
   {
     "number": "20",
-    "question": "New Question",
-    "correctAnswer": "Correct Answer",
+    "question": "What Prayer level is required for Malevolence?",
+    "correctAnswer": "99",
     "incorrectAnswers": [
-      "...",
-      "...",
-      "..."
+      "92",
+      "95",
+      "90"
     ]
   }
 ]
