@@ -11,12 +11,12 @@
   },
   {
     "number": "2",
-    "question": "New Question",
-    "correctAnswer": "Correct Answer",
+    "question": "After the initial release in 2001, what was the first skill added?",
+    "correctAnswer": "Crafting",
     "incorrectAnswers": [
-      "...",
-      "...",
-      "..."
+      "Fishing",
+      "Fletching",
+      "Thieving"
     ]
   },
   {
