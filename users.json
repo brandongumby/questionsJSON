@@ -14,11 +14,9 @@
     "username": "durf3",
     "trivia": 1
   },
-  [
-    {
-      "user_id": 224165409278918656,
-      "username": "durfx",
-      "trivia": 1
-    }
-  ]
+  {
+    "user_id": 224165409278918656,
+    "username": "durfx",
+    "trivia": 1
+  }
 ]
