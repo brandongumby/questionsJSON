@@ -198,5 +198,15 @@
       "95",
       "90"
     ]
+  },
+  {
+    "number": "21",
+    "question": "Which is the god of Cabbages?",
+    "correctAnswer": "Brassica Prime",
+    "incorrectAnswers": [
+      "Skargaroth",
+      "Tuska",
+      "Marimbo"
+    ]
   }
 ]
