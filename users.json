@@ -2,16 +2,16 @@
   {
     "user_id": "durfx",
     "username": "durf",
-    "trivia": "2"
+    "trivia": 2
   },
   {
     "user_id": "durf2",
     "username": "durf2",
-    "trivia": "20"
+    "trivia": 20
   },
   {
     "user_id": "durf3",
     "username": "durf3",
-    "trivia": "1"
+    "trivia": 1
   }
 ]
